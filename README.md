@@ -1,6 +1,6 @@
 ## Developers
 
-* **Dr. Anil Kumar**, ADG (TC), ICAR-IASRI, New Delhi, India
+* **Dr. Anil Kumar**, ADG (TC), ICAR, New Delhi, India
 * **Dr. Prabina Kumar Meher**, Senior Scientist, ICAR-IASRI, New Delhi, India
 * **Dr. Upendra Kumar Pradhan**, Senior Scientist, ICAR-IASRI, New Delhi, India
 
