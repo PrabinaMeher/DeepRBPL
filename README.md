@@ -1,3 +1,9 @@
+## Developers
+
+* **Dr. Anil Kumar**, ADG (TC), ICAR-IASRI, New Delhi, India
+* **Dr. Prabina Kumar Meher**, Senior Scientist, ICAR-IASRI, New Delhi, India
+* **Dr. Upendra Kumar Pradhan**, Senior Scientist, ICAR-IASRI, New Delhi, India
+
 ## Reproducing DeepRBPL Results Using Your Own Dataset
 
 The following procedure describes how to reproduce DeepRBPL results using your own positive and negative protein sequence datasets.
@@ -70,9 +76,4 @@ The `DeepRBPL_Training_Results` folder contains the output files generated durin
 
 ---
 
-## Developers
-
-* **Dr. Anil Kumar**, ADG (TC), ICAR-IASRI, New Delhi, India
-* **Dr. Prabina Kumar Meher**, Senior Scientist, ICAR-IASRI, New Delhi, India
-* **Dr. Upendra Kumar Pradhan**, Senior Scientist, ICAR-IASRI, New Delhi, India
 
